@@ -1,3 +1,3 @@
-"# intership" 
-first challenge intership 
+"# internship" 
+first challenge internship 
 by : sheyda
